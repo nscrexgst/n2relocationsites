@@ -454,7 +454,7 @@ var APP_DATA = {
           "yaw": -0.2674739205218408,
           "pitch": 0.3526316190753356,
           "rotation": 0,
-          "target": "2-bondoc-ville---street"
+          "target": "12-san-felipe---street"
         },
         {
           "yaw": 0.4294075574772691,
